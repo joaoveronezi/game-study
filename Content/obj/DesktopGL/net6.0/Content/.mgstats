@@ -1,1 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Hudson/Documents/Projects/firstProject/Content/ladie.png","C:/Users/Hudson/Documents/Projects/firstProject/Content/bin/DesktopGL/Content/ladie.xnb","TextureProcessor","Texture2DContent",1368,147541,0.177376
+"C:/Users/Hudson/Documents/Projects/firstProject/Content/sky.png","C:/Users/Hudson/Documents/Projects/firstProject/Content/bin/DesktopGL/Content/sky.xnb","TextureProcessor","Texture2DContent",67164,1223685,0.0429314
+"C:/Users/Hudson/Documents/Projects/firstProject/Content/tree.png","C:/Users/Hudson/Documents/Projects/firstProject/Content/bin/DesktopGL/Content/tree.xnb","TextureProcessor","Texture2DContent",3243,921685,0.0433751

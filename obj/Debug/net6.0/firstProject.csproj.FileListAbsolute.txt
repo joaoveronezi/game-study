@@ -23,3 +23,6 @@ C:\Users\Hudson\Documents\Projects\firstProject\obj\Debug\net6.0\refint\firstPro
 C:\Users\Hudson\Documents\Projects\firstProject\obj\Debug\net6.0\firstProject.pdb
 C:\Users\Hudson\Documents\Projects\firstProject\obj\Debug\net6.0\firstProject.genruntimeconfig.cache
 C:\Users\Hudson\Documents\Projects\firstProject\obj\Debug\net6.0\ref\firstProject.dll
+C:\Users\Hudson\Documents\Projects\firstProject\bin\Debug\net6.0\Content\ladie.xnb
+C:\Users\Hudson\Documents\Projects\firstProject\bin\Debug\net6.0\Content\sky.xnb
+C:\Users\Hudson\Documents\Projects\firstProject\bin\Debug\net6.0\Content\tree.xnb
